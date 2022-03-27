@@ -1,5 +1,0 @@
-demoservice:
-  log:
-    path: logs
-    rolloverSize: 1MB
-  welcometext: "my new app dev 2.0"
