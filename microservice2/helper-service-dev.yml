@@ -2,4 +2,4 @@ helperservice:
   log:
     path: logs
     rolloverSize: 1MB
-  appId: "${appId:Helper server: Dev}"
+  appId: "Helper server: Dev"
